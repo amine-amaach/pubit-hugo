@@ -61,7 +61,7 @@ contact_form_action = "#"
 currency = "$"
 description = "This is meta description"
 logo = "images/logo.png"
-logo_width = "100px"
+logo_width = "200px"
 [[params.plugins.css]]
 link = "https://fonts.googleapis.com/css?family=Droid+Serif:400|Josefin+Sans:300,400,600,700"
 [[params.plugins.css]]
