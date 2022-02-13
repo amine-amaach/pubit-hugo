@@ -2,7 +2,7 @@ backend:
   name: git-gateway
 
 media_folder: "pubit/static/images" # Folder where user uploaded files should go
-public_folder: "/images/uploads"
+public_folder: "images"
 
 collections: # A list of collections the CMS should be able to edit
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
