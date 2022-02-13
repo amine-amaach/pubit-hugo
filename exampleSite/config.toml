@@ -56,7 +56,7 @@ name = "Contact"
 url = "contact/"
 weight = 5
 [params]
-author = "Themefisher"
+author = "Amine Amaach"
 contact_form_action = "#"
 currency = "$"
 description = "This is meta description"
