@@ -2,7 +2,7 @@
 layout: blog
 title: Comment le phénomène Black Friday influence-t-il la publicité ?
 date: 2022-02-13T21:36:43.182Z
-thumbnail: images/profile-logo2.png
+thumbnail: images/call-to-action.jpg
 ---
 <!--StartFragment-->
 
