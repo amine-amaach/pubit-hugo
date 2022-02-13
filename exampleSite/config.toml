@@ -1,4 +1,4 @@
-baseurl = "http://pubit.tech/"
+baseurl = "https://pubit.tech/"
 disableLanguages = []
 googleAnalytics = ""
 summarylength = "20"
