@@ -84,7 +84,7 @@ link = "https://cdn.snipcart.com/themes/v3.0.27/default/snipcart.js"
 enable = true
 preloader = ""
 [params.snipcart]
-enable = true
+enable = false
 snipcart_api = "ZDgxY2ZiM2EtMWRmMi00M2ZkLWI1MDAtNzA2MDc0Y2Q1MzJlNjM3MTAzNDIwOTQ1NDA4NjM4"
 [params.subscription]
 mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074"
