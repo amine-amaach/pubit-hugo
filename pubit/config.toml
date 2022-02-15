@@ -6,7 +6,7 @@ theme = "vex-hugo"
 title = "PubIT | The new era of advertising"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "©2022-2023 All Rights Reserved."
 languageCode = "en-us"
 languageName = "En"
 weight = 1
@@ -39,8 +39,8 @@ name = "Home"
 url = "/"
 weight = 1
 [[menu.main]]
-name = "Products"
-url = "products/"
+name = "Services"
+url = "services/"
 weight = 2
 [[menu.main]]
 name = "Blog"
@@ -61,7 +61,7 @@ contact_form_action = "#"
 currency = "$"
 description = "This is meta description"
 logo = "images/logo.png"
-logo_width = "100px"
+logo_width = "120px"
 [[params.plugins.css]]
 link = "https://fonts.googleapis.com/css?family=Droid+Serif:400|Josefin+Sans:300,400,600,700"
 [[params.plugins.css]]
@@ -70,22 +70,15 @@ link = "plugins/bootstrap/bootstrap.min.css"
 link = "plugins/themefisher-font/themefisher-font.min.css"
 [[params.plugins.css]]
 link = "plugins/slick/slick.min.css"
-[[params.plugins.css]]
-link = "https://cdn.snipcart.com/themes/v3.0.27/default/snipcart.css"
 [[params.plugins.js]]
 link = "plugins/jquery/jquery.js"
 [[params.plugins.js]]
 link = "plugins/bootstrap/bootstrap.min.js"
 [[params.plugins.js]]
 link = "plugins/slick/slick.min.js"
-[[params.plugins.js]]
-link = "https://cdn.snipcart.com/themes/v3.0.27/default/snipcart.js"
 [params.preloader]
 enable = true
 preloader = ""
-[params.snipcart]
-enable = true
-snipcart_api = "ZDgxY2ZiM2EtMWRmMi00M2ZkLWI1MDAtNzA2MDc0Y2Q1MzJlNjM3MTAzNDIwOTQ1NDA4NjM4"
 [params.subscription]
 mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074"
 mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"
