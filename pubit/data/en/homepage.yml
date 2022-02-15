@@ -6,8 +6,8 @@ banner:
   image: "images/homepage.png"
   button:
     enable: true
-    label: "Browse All Products"
-    link: "products/"
+    label: "Browse All Services"
+    link: "services/"
 
 ############################# Feature ############################
 features:
@@ -91,7 +91,7 @@ about_product:
 
 #################################### Products ########################
 products:
-  enable: true
+  enable: false
   title: "Checkout Our All Products"
 
 ################################## Subscription ###################
